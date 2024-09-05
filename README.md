@@ -1,5 +1,7 @@
 MinecraftModelMaker is a tool designed to simplify the creation of 3D models for Minecraft using Block Displays. Follow this guide to get started with generating and placing your custom models in the game.
 
+Java Version 1.18.0
+
 Getting Started
 1. Select Output Location
 Choose the location where you want the generated file to be saved.
