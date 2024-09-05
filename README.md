@@ -18,7 +18,7 @@ Click the "Generate Layout" button to create a layout based on your dimensions.
 Select Blocks: Choose blocks from the selection menu at the top of the interface.
 Change Layers: Use the selection tool on the middle left side to switch between different layers of the model.
 5. Generate File
-Once you're satisfied with the model, press the "Generate File" button. This will create a folder with the necessary files for your model.
+Once you're satisfied with the model, press the "Generate Script" button. This will create a folder with the necessary files for your model.
 
 6. Move Files to Minecraft
 Open Minecraft’s save folder:
